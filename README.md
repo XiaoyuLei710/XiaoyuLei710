@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a PhD candidate in UW-Madison.
 <!--
 **XiaoyuLei710/XiaoyuLei710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
